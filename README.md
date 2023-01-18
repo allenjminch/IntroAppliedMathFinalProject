@@ -1,2 +1,2 @@
 # IntroAppliedMathFinalProject
-Considered two different extensions to the SIR model to incorporate the dynamic of waning immunity.
+Devised and implemented two different extensions to the SIR model to incorporate the dynamic of waning immunity. My class had already discussed the SIR model and provided some code for simulating a basic differential equation SIR model and a basic agent-based SIR model. Using this code we were provided with as a starting point, I made some modifications and added in new code to implement my extensions.
